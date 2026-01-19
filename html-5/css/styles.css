@@ -1,0 +1,40 @@
+nav { 
+    text-align:center;
+    padding: 0 20;
+   
+}
+a{
+    text-decoration: none;
+}
+main img{
+    display: block;
+    margin: 35px auto;
+    width: 350px;
+border-radius: 20px;
+border: 5px solid rgb(76, 76, 163);
+}
+footer{
+padding: 40px 0;
+text-align: center;
+}
+nav a { 
+    font-size: 25px;
+margin: 0 20px;
+color: rgb(85, 8, 148);
+}
+nav a:hover{
+    color: rgb(188, 122, 214);
+}
+body{
+    padding:0 10px;
+    margin: 0 5px;
+}
+a:hover{
+            color: rgb(134, 112, 83);
+}
+ h4{
+    border: 1px solid rgb(58, 58, 238);
+    margin:0 10px;
+    padding:5px 10px;
+    border-radius: 20px;
+ }
