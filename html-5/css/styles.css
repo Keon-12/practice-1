@@ -8,9 +8,9 @@ a{
 }
 main img{
     display: block;
-    margin: 35px auto;
+    margin: 10px auto;
     width: 350px;
-border-radius: 20px;
+border-radius: 100px;
 border: 5px solid rgb(76, 76, 163);
 }
 footer{
@@ -20,21 +20,36 @@ text-align: center;
 nav a { 
     font-size: 25px;
 margin: 0 20px;
-color: rgb(85, 8, 148);
+color: rgb(10, 168, 173);
 }
 nav a:hover{
-    color: rgb(188, 122, 214);
+    color: rgb(123, 69, 223);
 }
 body{
     padding:0 10px;
     margin: 0 5px;
 }
 a:hover{
-            color: rgb(134, 112, 83);
+            color: rgb(214, 138, 133);
 }
- h4{
-    border: 1px solid rgb(58, 58, 238);
-    margin:0 10px;
-    padding:5px 10px;
-    border-radius: 20px;
+ #container{
+    border: 5px solid rgb(136, 207, 118);
+    padding: 5px 50px;   
+    background-color: rgb(113, 226, 132); 
+    margin: 5px 10px;
+    border-radius: 60px;
+     font-size: 15px;
+     color: rgb(17, 138, 118);
+ }
+ #container2{ 
+    border: 5px solid rgb(13, 114, 207);
+    padding: 5px 50px;
+    background-color: rgb(113, 213, 243);
+    margin: 5px 10px;
+    border-radius: 60px;
+    font-size: 15px;
+    color: rgb(64, 128, 224);
+ }
+ a{
+    color:rgb(112, 89, 228)
  }
