@@ -1,0 +1,95 @@
+nav{
+    text-align: center;
+}
+nav a{
+    text-decoration: none;
+}
+nav ul{
+    padding: o;
+    list-style-type: none;
+}
+nav li{
+    display: inline-block;
+}
+nav li a{
+  color: rgb(80, 61, 150);
+  padding: 0 40px;
+  background-color: rgb(149, 213, 255);
+  border-radius: 20px;
+}
+section,aside{
+    border-radius: 50px;
+    margin: 10px;
+    padding: 25px;
+    border: 2px solid rgb(182, 15, 182);
+   
+}
+img{
+    width: 100%;
+    border-radius: 40px;
+    padding: 2px;
+    display: block;
+    margin: 0 auto;
+}
+nav li a:hover{
+    background-color: rgb(71, 128, 194);
+}
+.multi_col{
+    display: flex;
+}
+a:hover{
+    text-decoration: none;
+    color: rgb(84, 40, 134);
+}
+a{
+    text-decoration: none;
+    color: rgb(106, 84, 226);
+}
+#container3{
+background-color: rgb(201, 127, 219);
+padding:5px 25px;
+border-radius: 20px;
+margin: 0 10px;
+width: 100%;
+border: 5px solid purple;
+}
+h3{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+body{
+    padding-left:10px;
+    margin: 10px;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+#container{
+background-color: rgb(100, 173, 116);
+padding:5px 25px;
+border-radius: 20px;
+margin: 0 10px;
+width: 100%;
+border: 5px solid rgb(0, 128, 64);
+}
+#container2{
+background-color:  rgb(96, 140, 208);
+padding:5px 15px;
+border-radius: 20px;
+margin:10px;
+width: 100%;
+border: 5px solid rgb(60, 16, 163);
+}
+h1{
+    text-align: center;
+
+}
+header{
+    text-align: center;
+    padding: 0 10px;
+}
