@@ -1,0 +1,23 @@
+/* Global Styles */
+a{
+    text-decoration: none;
+}
+nav li{
+    display: block;
+}
+/* Mobile Styles */
+
+
+
+/* Tablet Styles */
+@media(min-width:768px){
+    .ind_col{
+        display: flex;
+    }
+}
+/* Desktop Styles */
+@media(min-width:1024px){
+    .ind_col{
+     display: flex;
+    }
+}
