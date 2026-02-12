@@ -8,4 +8,6 @@
 <li><a href="advance-css/index.html" target="_blank">Advance CSS</a></li>
 
 <li><a href="responsive-web/index.html" target="_blank">Responsive Web</a></li>
+
+<li><a href="Final-Project/index.html" target="_blank">Final Project</a></li>
 </ul>
